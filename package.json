@@ -1,0 +1,27 @@
+{
+  "name": "article-scrape-comment",
+  "version": "1.0.0",
+  "description": "App that will scrape news articles and user can make comments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanhalupczynski/Article-Scrape-Comment.git"
+  },
+  "author": "Sean Halupczynski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanhalupczynski/Article-Scrape-Comment/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "mongoose": "^5.0.11",
+    "express-handlebars": "^3.0.0",
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.87.0"
+  },
+  "homepage": "https://github.com/seanhalupczynski/Article-Scrape-Comment#readme"
+}
